@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 // Find the Maximum Number in an Array
+
 int main() {
   int arr[] = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
   int max = arr[0];
