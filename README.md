@@ -1,1 +1,1 @@
-# Exercises in C
+# Excercises in C
